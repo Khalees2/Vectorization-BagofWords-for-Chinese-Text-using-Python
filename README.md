@@ -6,5 +6,3 @@ In this work I have used jieba library of python to segment chinese text and cre
 # References
 https://github.com/fxsjy/jieba
 
-#### Apologies
-This notebook was created long back when I was a beginner to Python and Machine Learning and there are no comments provided.
